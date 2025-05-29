@@ -16,4 +16,4 @@ Esse é o meu primeiro README
 
 [link para o Google](https://www.google.com)
 
-![Link da imagem](https://www.notion.com/pt/product)
+![Link da imagem](https://araras.sp.gov.br/assets/img/content/aplicativo-home.png)
